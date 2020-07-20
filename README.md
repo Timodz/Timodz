@@ -2,7 +2,7 @@
 
 ---
 
-<img width="250" align='right' src="https://raw.githubusercontent.com/Timodz/Timodz/master/img/me.jpg">
+<img width="280" align='right' src="https://raw.githubusercontent.com/Timodz/Timodz/master/img/me.jpg">
 
 🔭 I’m currently doing a PhD in computer science, working on Spiking
 neural networks (SNNs) and their interactive analytics. <br><br>
