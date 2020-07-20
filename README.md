@@ -28,4 +28,6 @@ hackathon (2018)
 <a href="https://twitter.com/elbezhammouda"><img height="30" src="https://raw.githubusercontent.com/Timodz/Timodz/master/img/twitter.png"></a>
 &nbsp;&nbsp;
 <a href="https://www.deviantart.com/elbezh"><img height="30" src="https://raw.githubusercontent.com/Timodz/Timodz/master/img/deviantart.png"></a>
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/hammouda.Elbez"><img height="30" src="https://raw.githubusercontent.com/Timodz/Timodz/master/img/facebook.png"></a>
 </p>
