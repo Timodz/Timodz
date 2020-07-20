@@ -2,9 +2,9 @@
 
 ---
 
-<img width="250" align='right' src="https://raw.githubusercontent.com/Timodz/Timodz/master/img/me.jpg">
+<img width="300" align='right' src="https://raw.githubusercontent.com/Timodz/Timodz/master/img/me.jpg">
 
-<div style="width:60%; text-align:justify;">
+<div style="width:50%; text-align:justify;">
 🔭 I’m currently doing a PhD in computer science, working on Spiking
 neural networks (SNNs) and their interactive analysis. <br><br>
 🌱 I’m currently learning about Pytorch and how to exploit it using
@@ -17,14 +17,11 @@ Open Source.<br><br>
 I am a co-organiser at Google Developers Group chapter of Ghardaia, a Flutter trainer and
 member at the CSO (club scientifique des oasis).<br><br>
 
-I was lucky to be a speaker at different events, like TedX, WikiStage
-about topics mainly related to tech, you will find in this [repository]([https://link](https://github.com/Timodz/MyPresentations))  some
+I had the chance to be a speaker at different events, like TedX, WikiStage
+about topics mainly related to tech, you will find in this <a href="https://github.com/Timodz/MyPresentations">repository</a> some
 of those presentations content. 
 <br><br>
-
-I was a part of the previous [Guinness world record]([https://link](https://www.guinnessworldrecords.com/news/commercial/2018/8/thousands-of-software-developers-from-100-countries-attend-record-breaking-hackat-537231)) of the Most participants in a
-hackathon (2018)
-<br><br><br><br>
+<br><br>
 <p align='center'>
 <a href="https://www.linkedin.com/in/elbez-hammouda/"><img height="30" src="https://raw.githubusercontent.com/Timodz/Timodz/master/img/linkedin.png"></a>
 &nbsp;&nbsp;
