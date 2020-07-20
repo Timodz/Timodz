@@ -2,7 +2,7 @@
 
 ---
 
-<img width="400" align='right' src="https://raw.githubusercontent.com/Timodz/Timodz/master/img/me.jpg">
+<img width="250" align='right' src="https://raw.githubusercontent.com/Timodz/Timodz/master/img/me.jpg">
 
 🔭 I’m currently doing a PhD in computer science, working on Spiking
 neural networks (SNNs) and their interactive analytics. <br><br>
@@ -21,6 +21,7 @@ of those presentations content.
 <br><br>
 I was a part of the previous [Guinness world record]([https://link](https://www.guinnessworldrecords.com/news/commercial/2018/8/thousands-of-software-developers-from-100-countries-attend-record-breaking-hackat-537231)) of the Most participants in a
 hackathon (2018)
+<br><br><br><br>
 <p align='center'>
 <a href="https://www.linkedin.com/in/elbez-hammouda/"><img height="30" src="https://raw.githubusercontent.com/Timodz/Timodz/master/img/linkedin.png"></a>
 &nbsp;&nbsp;
