@@ -2,7 +2,7 @@
 
 ---
 
-<div id="column1" style="float:left; margin:0; width:55%;text-align:justify;" markdown="1">
+<img width="400" align='right' src="https://raw.githubusercontent.com/Timodz/Timodz/master/img/me.jpg">
 
 🔭 I’m currently doing a PhD in computer science, working on Spiking
 neural networks (SNNs) and their interactive analytics. <br><br>
@@ -28,10 +28,3 @@ hackathon (2018)
 &nbsp;&nbsp;
 <a href="https://www.deviantart.com/elbezh"><img height="30" src="https://raw.githubusercontent.com/Timodz/Timodz/master/img/deviantart.png"></a>
 </p>
-</div>
-
-<div id="column2" style="float:right; margin:0; width:40%;" markdown="1">
-
-![hammouda header](https://raw.githubusercontent.com/Timodz/Timodz/master/img/me.jpg)
-
-</div>
