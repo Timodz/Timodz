@@ -22,16 +22,16 @@ of those presentations content.
 I was a part of the previous [Guinness world record]([https://link](https://www.guinnessworldrecords.com/news/commercial/2018/8/thousands-of-software-developers-from-100-countries-attend-record-breaking-hackat-537231)) of the Most participants in a
 hackathon (2018)
 <p align='center'>
-<a href="https://www.linkedin.com/in/elbez-hammouda/"><img height="30" src="img/linkedin.png"></a>
+<a href="https://www.linkedin.com/in/elbez-hammouda/"><img height="30" src="https://raw.githubusercontent.com/Timodz/Timodz/master/img/linkedin.png"></a>
 &nbsp;&nbsp;
-<a href="https://twitter.com/elbezhammouda"><img height="30" src="img/twitter.png"></a>
+<a href="https://twitter.com/elbezhammouda"><img height="30" src="https://raw.githubusercontent.com/Timodz/Timodz/master/img/twitter.png"></a>
 &nbsp;&nbsp;
-<a href="https://www.deviantart.com/elbezh"><img height="30" src="img/deviantart.png"></a>
+<a href="https://www.deviantart.com/elbezh"><img height="30" src="https://raw.githubusercontent.com/Timodz/Timodz/master/img/deviantart.png"></a>
 </p>
 </div>
 
 <div id="column2" style="float:right; margin:0; width:40%;" markdown="1">
 
-![hammouda header](img/me.jpg)
+![hammouda header](https://raw.githubusercontent.com/Timodz/Timodz/master/img/me.jpg)
 
 </div>
