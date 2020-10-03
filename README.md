@@ -6,12 +6,12 @@
 
 <div style="width:50%; text-align:justify;">
 🔭 I’m currently doing a PhD in computer science, working on Spiking
-neural networks (SNNs) and their interactive analysis. <br><br>
+neural networks (SNNs) and interactive analysis. <br><br>
 🌱 I’m currently learning about Pytorch and how to exploit it using
-Flutter for mobile based applications around Ai.<br><br>
+Flutter for mobile-based applications around Ai.<br><br>
 👯 I’m looking to collaborate on anything related to my research topic or any interesting project related to Ai.
 <br><br>
-I am a fullstack developer with a couple of years experience in
+I am a full-stack developer with a couple of years of experience in
 different fields, mainly mobile development. A big fan of Linux and
 Open Source.<br><br>
 I am a co-organiser at Google Developers Group chapter of Ghardaia, a Flutter trainer and
