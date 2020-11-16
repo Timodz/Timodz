@@ -11,8 +11,7 @@ neural networks (SNNs) and interactive analysis. <br><br>
 Flutter for mobile-based applications around Ai.<br><br>
 👯 I’m looking to collaborate on anything related to my research topic or any interesting project related to Ai.
 <br><br>
-I am a full-stack developer with a couple of years of experience in
-different fields, mainly mobile development. A big fan of Linux and
+I am a mobile app developer with a couple of years of experience. A big fan of Linux and
 Open Source.<br><br>
 I am a co-organiser at Google Developers Group chapter of Ghardaia, a Flutter trainer and
 member at the CSO (club scientifique des oasis).<br><br>
